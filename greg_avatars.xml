@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type = "text/xsl" href = "greg_avatars.xsl"?>
+    
+<greg>
+	
+	<avatar xmlns:bunny="images/bunny.jpg">
+		<name>Bunny</name>
+		<powers>hops up to 100 feet</powers>
+		<home>rabbit warren</home>
+		<carry>Easter basket</carry>
+		<partner>fox</partner>
+	</avatar>
+	
+	<avatar xmlns:princess="images/princess.jpg">
+		<name>Princess</name>
+		<powers>mesmerizes anyone</powers>
+		<home>castle</home>
+		<carry>make-up case</carry>
+		<partner>knight</partner>
+	</avatar>
+	
+	<avatar xmlns:ghost="images/ghost.jpg">
+		<name>Ghost</name>
+		<powers>invisibility</powers>
+		<home>haunted house</home>
+		<carry>sunglasses</carry>
+		<partner>vampire</partner>
+	</avatar>
+	
+	<avatar xmlns:wizard="images/wizard.jpg">
+		<name>Wizard</name>
+		<powers>fire-maker</powers>
+		<home>a cave</home>
+		<carry>magic wand</carry>
+		<partner>black cat</partner>
+	</avatar>
+	
+	<avatar xmlns:elf="images/elf.jpg">
+		<name>Elf</name>
+		<powers>super hearing</powers>
+		<home>inside an oak tree</home>
+		<carry>bow and arrow</carry>
+		<partner>dragon</partner>
+	</avatar>
+	
+</greg>
